@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "expertGit",
+			"Path": "E:\\git\\expert\\expertGit\\Source\\expertGit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "expertGitEditor",
+			"Path": "E:\\git\\expert\\expertGit\\Source\\expertGitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\Definitions.expertGit.h
+E:\git\expert\expertGit\Source\expertGit\expertGit.h

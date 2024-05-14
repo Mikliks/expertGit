@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\expertGit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8AA37CD9-D3A4-46D7-817E-EC03126561FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\expertGit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\expertGitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{042FE7F3-E067-4BEE-A6E6-7E4F262724A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\expertGit">
+      <UniqueIdentifier>{3B7801D1-5F9D-412F-9094-BFB245726026}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\expertGit\expertGit.Build.cs">
+      <Filter>Source\expertGit</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\expertGit\expertGit.cpp">
+      <Filter>Source\expertGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\expertGit\expertGit.h">
+      <Filter>Source\expertGit</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\expertGit\expertGitGameModeBase.cpp">
+      <Filter>Source\expertGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\expertGit\expertGitGameModeBase.h">
+      <Filter>Source\expertGit</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\expertGit\MyActor.cpp">
+      <Filter>Source\expertGit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\expertGit\MyActor.h">
+      <Filter>Source\expertGit</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

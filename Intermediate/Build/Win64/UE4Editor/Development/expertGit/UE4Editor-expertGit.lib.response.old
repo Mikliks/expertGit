@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-expertGit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\git\expert\expertGit\Intermediate\Build\Win64\expertGitEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\expertGit.cpp.obj"
+"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\expertGitGameModeBase.cpp.obj"
+"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\expertGit.init.gen.cpp.obj"
+"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\expertGitGameModeBase.gen.cpp.obj"
+"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\Default.rc2.res"
+/OUT:"E:\git\expert\expertGit\Intermediate\Build\Win64\UE4Editor\Development\expertGit\UE4Editor-expertGit.lib"

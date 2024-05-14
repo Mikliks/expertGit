@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\git\\expert\\expertGit\\Source\\expertGit\\expertGit.Build.cs",
+		"E:\\git\\expert\\expertGit\\Source\\expertGit.Target.cs",
+		"E:\\git\\expert\\expertGit\\Source\\expertGitEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
